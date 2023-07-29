@@ -1,5 +1,7 @@
 # Unity Sprite Afterimage Effect
 
+[中文](https://github.com/make-game-modules/after-image-effect-controller/blob/main/README.zh-cn.md)
+
 This project provides a Unity script that creates an afterimage effect for sprites. When a sprite moves around the scene, it automatically leaves behind semi-transparent afterimages along its path. These afterimages will disappear after a period of time.
 
 ## How to Use
